@@ -1,0 +1,8 @@
+var input1=[98];
+var input2=[448];
+var c=input1%2;
+var d=input2%2;
+var e=(c==0) ? "even" : "odd";
+var f=(d==0) ? "even" : "odd";
+console.log("YOUR INPUT IS"+" "+e);
+console.log("YOUR INPUT IS"+" "+f);
