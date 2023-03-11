@@ -1,0 +1,19 @@
+1	var input1=[67];
+2	var input2=[76];
+3	var c=input1%2;
+4	var d=input2%2;
+5	 if(c==0&&d==0)
+6	{
+7	  console.log("YOUR INPUT1&2 IS EVEN");}
+8	  
+9	    else if(d>0)
+10	  {
+11	    console.log("YOUR INPUT2 IS ODD");
+12	    }
+13	    else if(c>0)
+14	    {
+15	      console.log("YOUR INPUT 1 IS ODD");
+16	    }
+17	//else{
+18	//  console.log("YOUR INPUT 2 IS ODD");
+19	//}
